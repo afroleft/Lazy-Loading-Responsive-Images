@@ -1,8 +1,8 @@
 # Lazy Loading Responsive Images
 
-[The demo website](https://afroleft.github.io/Lazy-Loading-Responsive-Images/) for: A fluid and responsive, lazy-loaded image (minus the [browser relay blips](https://vimeo.com/76332778)).
+The demo website for: A fluid and responsive, lazy-loaded image (minus the [browser relay blips](https://vimeo.com/76332778)).
 
-[See the demo ➫](https://afroleft.github.io/Lazy-Loading-Responsive-Images/)
+[**See the demo ➫**](https://afroleft.github.io/Lazy-Loading-Responsive-Images/)
 
 <img src="http://afroleft.com/content/images/2015/07/dimensions-for-lazy-loading-responsive-images.png" style="width: 400px;" />
 
